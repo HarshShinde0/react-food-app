@@ -1,3 +1,5 @@
+# React Food App
+
 BACKEND COMMAND TO START LOCALLY
 
 cd backend;-
